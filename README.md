@@ -1,2 +1,2 @@
 # SML-CML
-SML-CML: Structured inference model for diagnostic reasoning, usable with LLMs and AI systems.
+A structured model grounded in human cognition—including worldview, phenomenology, hermeneutics, and abductive reasoning. Usable with LLMs and AI systems.
