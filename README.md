@@ -30,11 +30,10 @@ Encodes the value system or worldview underpinning a given interpretation.
 
 ## 2. Functional Differences
 
-| Layer | Function              | Focus                                  |
-|-------|-----------------------|----------------------------------------|
-| SML   | Structures the question | Meaning, interpretation                |
-| CML   | Evaluates the framing | Values, worldview, ethical alignment   |
-
+| Layer | Function               | Focus                                |
+|-------|------------------------|--------------------------------------|
+| SML   | Structures the question | Meaning, interpretation              |
+| CML   | Evaluates the framing   | Values, worldview, ethical alignment |
 ---
 
 ## 3. Application to AI and LLMs
@@ -46,11 +45,10 @@ SML-CML provides a framework for LLMs to generate and evaluate responses beyond 
 
 ### Example: Comparing AI-generated diagnoses
 
-| Output | SML-based Interpretation      | CML Evaluation                             |
-|--------|-------------------------------|--------------------------------------------|
-| A: “Cold sensitivity is caused by blood deficiency.” | East Asian medicine lens | Aligned with harmony-oriented worldview     |
-| B: “Cold sensitivity is due to lack of exercise.”   | Western biomedical lens  | Aligned with productivity-focused worldview |
-
+| Output | SML-based Interpretation        | CML Evaluation                        |
+|--------|----------------------------------|----------------------------------------|
+| A: “Cold sensitivity is caused by blood deficiency.” | East Asian medicine lens | Aligned with harmony-oriented worldview |
+| B: “Cold sensitivity is due to lack of exercise.”     | Western biomedical lens  | Aligned with productivity-focused worldview |
 ---
 
 ## 4. Use Cases
