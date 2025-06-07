@@ -75,6 +75,7 @@ But in domains like healthcare, ethics, and philosophy, **truth** depends on:
 - Guide AI systems toward more meaningful interaction with human thought
 
 ---
+
 ## 🔧 Next Steps
 
 This repository will include:
