@@ -12,7 +12,7 @@ The case centers on public criticism of product resellers ("scalpers") and a cou
 - **Horiemon's stance**: Resale is economically rational and provides value by delivering goods faster to those who want them.
 
 ### Reference:  
-[Tokyo Sports Article on Horiemon's Resale Defense (June 2024)](https://topics.smt.docomo.ne.jp/article/tokyosports/entertainment/tokyosports-347541)
+[Tokyo Sports Article on Horiemon's Resale Defense (June 2025)](https://topics.smt.docomo.ne.jp/article/tokyosports/entertainment/tokyosports-347541)
 
 ---
 
