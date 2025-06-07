@@ -84,3 +84,5 @@ This repository will include:
 - `docs/overview_ja.md`: Japanese version  
 - `examples/`: Sample use cases and scoring logic  
 - `src/`: Implementation (work in progress)
+
+📄 日本語の解説はこちら → [docs/overview_ja.md](docs/overview_ja.md)
