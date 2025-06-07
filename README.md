@@ -86,5 +86,6 @@ This repository will include:
 - `src/`: Implementation (work in progress)
 
 📄 日本語の解説はこちら → [docs/overview_ja.md](docs/overview_ja.md)
+
 📄 日本語での社会的対立の事例解説はこちら → [examples/social_conflict_case_horiemon_ja.md](examples/social_conflict_case_horiemon_ja.md)
 
