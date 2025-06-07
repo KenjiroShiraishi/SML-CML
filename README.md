@@ -87,5 +87,7 @@ This repository will include:
 
 📄 日本語の解説はこちら → [docs/overview_ja.md](docs/overview_ja.md)
 
-📄 日本語での社会的対立の事例解説はこちら → [examples/social_conflict_case_horiemon_ja.md](examples/social_conflict_case_horiemon_ja.md)
+📄 日本語版の事例解説（社会的対立 × SML-CMLモデル）  
+→ [examples/social_conflict_case_horiemon_ja.md](examples/social_conflict_case_horiemon_ja.md)
+
 
