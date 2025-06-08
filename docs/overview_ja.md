@@ -75,3 +75,8 @@
 - `docs/overview_ja.md`：この日本語版解説  
 - `examples/`：スコア計算の具体例（予定）  
 - `src/`：評価ロジックの実装コード（予定）
+
+📄 Preprint on OSF  
+"Abductive Reasoning from Traditional Chinese Medicine to AI"  
+https://osf.io/p24sa/  
+DOI: [10.17605/OSF.IO/P24SA](https://doi.org/10.17605/OSF.IO/P24SA)
