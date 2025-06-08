@@ -1,51 +1,26 @@
-## 🏢 SML-CML Use Case: Organizational Culture and Value Alignment
+## 🏢 SML-CML ユースケース: 組織文化と価値観の整合
 
 ### 🇯🇵 日本語版
 
 #### 🔍 背景
-:contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2}。
+BMJ（2025年5月8日）掲載の「Culture should be a strategic priority amid the changing landscape of the healthcare system」（BMJ 2025;389:r928）は、医療制度の変化において文化を戦略的に捉える必要性を主張しています。しかし、**異なる価値観を持つ組織内部で、それらをどのように統合・調整するかという実践的手法には触れられていません**。
 
 #### 🧠 SML-CMLモデルによる提案
-- :contentReference[oaicite:3]{index=3}
-- :contentReference[oaicite:4]{index=4}
+- **CML（Cosmological Meaning Layer）**：組織が前提とする世界観・価値観（例：延命を最優先する vs QOLを重視する）。
+- **SML（Semantic Meaning Layer）**：その世界観に基づき、現場で実際にどのような意味づけや判断がなされるかを構造化。
 
-:contentReference[oaicite:5]{index=5}
+SML-CMLモデルは、組織文化の矛盾やミスマッチを「表層的な行動」ではなく「意味と世界観のズレ」として捉え、調整の道筋を与えます。
 
 #### 🌍 ケーススタディ
-- :contentReference[oaicite:6]{index=6} :contentReference[oaicite:7]{index=7}。
+例えば、東日本大震災後、多くの人々が「生き方」や「人生観」を見直しました。このような価値観の変化（CML）に伴い、行動や判断の意味づけ（SML）も変容しました。
 
 #### ✅ モデルの有効性
-SML-CMLは：
-- 価値観のミスマッチが起床する理由を構造的に説明できる  
-- :contentReference[oaicite:8]{index=8}  
-- 組織文化改革における実践的フレームワークとして利用できる
+SML-CMLモデルは：
+- 組織内の価値観のミスマッチを構造的に説明できる  
+- 異なる視点の調整や合意形成を支援する  
+- 組織文化改革における実践的なツールとなる
 
 #### 📎 参考・出典
-- :contentReference[oaicite:9]{index=9}  
-- :contentReference[oaicite:10]{index=10}  
+- [BMJ Rapid Response: Culture should be a strategic priority…](https://www.bmj.com/content/389/bmj.r928/rr)  
+- Uchida Y, Takahashi Y, Kawamura Y. *Changes in values and well-being before and after the Great East Japan Earthquake*. *J Happiness Stud*. 2014;15(1):207–221. [DOI:10.1007/s10902-013-9463-6](https://doi.org/10.1007/s10902-013-9463-6)
 
----
-
-### 🇬🇧 English Version
-
-#### 🔍 Background
-:contentReference[oaicite:11]{index=11} :contentReference[oaicite:12]{index=12}.
-
-#### 🧠 Applying the SML-CML Model
-- :contentReference[oaicite:13]{index=13}
-- :contentReference[oaicite:14]{index=14}
-
-:contentReference[oaicite:15]{index=15}
-
-#### 🌍 Case Study
-:contentReference[oaicite:16]{index=16} :contentReference[oaicite:17]{index=17}.
-
-#### ✅ Why This Matters
-The SML-CML model provides:
-- A structured explanation for why organizational values often fail to reach the frontline
-- A tool for mapping and mediating value pluralism within institutions
-- A practical framework for consistency in cultural integration
-
-#### 📎 References
-- BMJ Rapid Response: [Culture should be a strategic priority… Rapid-response](https://www.bmj.com/content/389/bmj.r928/rr)  
-- Uchida Y, Takahashi Y, Kawamura Y. *Changes in values and well‑being before and after the Great East Japan Earthquake*. *J Happiness Stud*. 2014;15(1):207–221. DOI:10.1007/s10902-013-9463-6  
