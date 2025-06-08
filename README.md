@@ -85,6 +85,11 @@ This repository will include:
 - `examples/`: Sample use cases and scoring logic  
 - `src/`: Implementation (work in progress)
 
+📄 Preprint on OSF  
+"Abductive Reasoning from Traditional Chinese Medicine to AI"  
+https://osf.io/p24sa/  
+DOI: [10.17605/OSF.IO/P24SA](https://doi.org/10.17605/OSF.IO/P24SA)
+
 📄 日本語の解説はこちら → [docs/overview_ja.md](docs/overview_ja.md)
 
 📄 日本語での社会的対立の事例解説はこちら → [examples/social_conflict_case_horiemon_ja.md](examples/social_conflict_case_horiemon_ja.md)
