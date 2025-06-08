@@ -76,6 +76,7 @@
 - `examples/`：スコア計算の具体例（予定）  
 - `src/`：評価ロジックの実装コード（予定）
 
+
 📄 プレプリント（OSF）  
 "Abductive Reasoning from Traditional Chinese Medicine to AI"  
 https://osf.io/p24sa/  
