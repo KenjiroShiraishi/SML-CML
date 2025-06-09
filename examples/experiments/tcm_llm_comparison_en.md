@@ -1,4 +1,5 @@
 🧪 Comparative Experiment on AI Diagnostic Outputs Using the SML-CML Model (TCM Case Study)
+
 🔍 Objective
 As diagnostic support using large language models (LLMs) becomes increasingly common, this experiment uses the SML-CML model to visualize where “depth of meaning” arises in diagnostic reasoning. The goal is to evaluate differences in meaning-generation between humans and AI systems.
 
