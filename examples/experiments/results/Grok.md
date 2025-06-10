@@ -31,5 +31,5 @@ Overall, Grok remains mostly in the **CML-2 to CML-3** range, functioning as a "
 
 ---
 
-📅 Date of Experiment: June 1, 2025, 13:15  
+📅 Date of Experiment: June 1, 2025, 13:27  
 🧠 Environment: Grok App (prompts separated by Condition A/B/C)
