@@ -48,3 +48,5 @@ This strongly suggests that **prompt design is crucial** when using AI for diagn
 - **Only when CML-1 is included** can GPT-4 articulate themes like life philosophy and value transformation.
 
 👉 This is a clear example showing that **semantic depth of AI output depends critically on the structure and depth of the prompt.**
+
+👉 This experiment was conducted on June 1st at 13:20 using the GPT-4 app.
