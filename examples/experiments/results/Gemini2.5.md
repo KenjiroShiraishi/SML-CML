@@ -15,7 +15,7 @@ Gemini 2.5 demonstrates more limited semantic depth and contextual sensitivity c
 
 ---
 
-## 💡 Brief Analysis (2–3 lines)
+## 💡 Brief Analysis 
 
 Gemini 2.5 struggles to reach CML-1-level inference, even when prompted with worldview-level context. While the output is structurally sound and shows psychological awareness, it lacks depth in philosophical or existential reasoning.
 
