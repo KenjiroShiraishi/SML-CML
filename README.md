@@ -144,9 +144,10 @@ This project follows the principle:
 ### `docs/`
 Policy documents, public-facing materials, and implementation guidance.
 
-Planned contents include:
+Current contents include:
 
 - `docs/questionnaire-public.md`
+- `docs/questionnaire-public-en.md`
 - `docs/anonymization-rules.md`
 - `docs/clinic-ai-policy.md`
 - `docs/clinic-notice-ja.md`
@@ -159,7 +160,7 @@ Planned contents include:
 ### `examples/`
 Example benchmark cases, anonymized input formats, and scoring logic.
 
-Examples may include:
+Examples include:
 
 - anonymized case templates
 - example AI prompts
@@ -169,12 +170,13 @@ Examples may include:
 ### `assets/`
 Printable or visual materials.
 
-Examples may include:
+Current examples include:
 
 - clinic notices
 - workflow diagrams
 - QR-linked patient information sheets
 - printable questionnaire files
+- Japanese PDF questionnaire materials
 
 ### Repository root
 - `README.md`: English overview
@@ -274,6 +276,8 @@ DOI: [10.17605/OSF.IO/P24SA](https://doi.org/10.17605/OSF.IO/P24SA)
 ### Example case in Japanese
 📄 日本語での社会的対立の事例解説はこちら → [examples/social_conflict_case_horiemon_ja.md](examples/social_conflict_case_horiemon_ja.md)
 
+---
+
 ## 📂 Repository Guide
 
 This repository includes both conceptual and practical materials related to the SML-CML framework.
@@ -305,6 +309,9 @@ This repository includes both conceptual and practical materials related to the 
 - `templates/worldview-questionnaire-template-ja.docx`
 - `templates/worldview-questionnaire-template.docx`
 - `templates/sml-cml-scoring-sheet.csv`
+
+### Printable materials
+- [Worldview Questionnaire Template (Japanese PDF)](assets/worldview-questionnaire-template-ja.pdf)
 
 ### Public principle
 This repository follows a simple rule:
