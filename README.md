@@ -273,3 +273,42 @@ DOI: [10.17605/OSF.IO/P24SA](https://doi.org/10.17605/OSF.IO/P24SA)
 
 ### Example case in Japanese
 📄 日本語での社会的対立の事例解説はこちら → [examples/social_conflict_case_horiemon_ja.md](examples/social_conflict_case_horiemon_ja.md)
+
+## 📂 Repository Guide
+
+This repository includes both conceptual and practical materials related to the SML-CML framework.
+
+### Core documents
+- [Japanese overview](overview_ja.md)
+- [Clinical translation design checklist](clinical_translation_design_checklist.md)
+
+### Benchmark and implementation documents
+- [SML-CML Benchmark Overview](docs/benchmark-overview.md)
+- [Purpose and Scope](docs/purpose-and-scope.md)
+- [Public Questionnaire for Clinical Use](docs/questionnaire-public.md)
+- [Public Questionnaire for Clinical Use (English)](docs/questionnaire-public-en.md)
+- [Anonymization Rules for AI-Safe Case Construction](docs/anonymization-rules.md)
+- [Clinic AI Policy](docs/clinic-ai-policy.md)
+- [Clinic Notice (Japanese)](docs/clinic-notice-ja.md)
+- [Clinic Notice (English)](docs/clinic-notice-en.md)
+- [What We Do Not Upload](docs/what-we-do-not-upload.md)
+- [Privacy Boundaries](docs/privacy-boundaries.md)
+
+### Benchmark examples
+- [Anonymized Case Template](examples/anonymized-case-template.md)
+- [Benchmark Case Example 01](examples/benchmark-case-example-01.md)
+- [Benchmark Case Example 02](examples/benchmark-case-example-02.md)
+- [SML-CML Scoring Example 01](examples/sml-cml-scoring-example.md)
+- [SML-CML Scoring Example 02](examples/sml-cml-scoring-example-02.md)
+
+### Templates and scoring materials
+- `templates/worldview-questionnaire-template-ja.docx`
+- `templates/worldview-questionnaire-template.docx`
+- `templates/sml-cml-scoring-sheet.csv`
+
+### Public principle
+This repository follows a simple rule:
+
+**Methods are public. Cases are protected.**
+
+It shares frameworks, questionnaires, anonymization rules, notices, benchmark cases, and scoring logic, but does **not** upload raw patient materials or identifiable case records.
